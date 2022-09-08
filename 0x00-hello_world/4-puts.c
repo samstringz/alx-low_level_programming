@@ -1,4 +1,9 @@
 #include <stdio.h>
+/**
+ *Main Point
+ *
+ * *Return: always 0 (success)
+ */
 int main(void)
 
 {
